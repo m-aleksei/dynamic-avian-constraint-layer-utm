@@ -1,7 +1,9 @@
 # CONCEPT: DYNAMIC AVIAN CONSTRAINT LAYER FOR UTM SYSTEMS
 
 **Version:** 1.0
+
 **Date:** September 2026
+
 **Status:** Open Technical Contribution (No Commercial Interest)
 
 
