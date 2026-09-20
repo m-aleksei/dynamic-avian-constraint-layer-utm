@@ -91,8 +91,11 @@ EASA U-space Regulation (EU) 2021/664:
 ## 6. ENVISAGED DEPLOYMENT
 
   Phase 1: Simulation and offline testing (months 1-2).
+  
   Phase 2: Hardware-in-loop testing (months 3-4).
+  
   Phase 3: Field testing with simulated targets (months 5-6).
+  
   Phase 4: Integration with USS testbed (months 7-8).
 
 
