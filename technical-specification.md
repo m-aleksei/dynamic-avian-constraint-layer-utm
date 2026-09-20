@@ -336,6 +336,7 @@ These are areas requiring further research and validation:
 ## 13. About the Author
 
 Alex Malakhov
+
 Independent researcher — Mathematical and computer modeling  
 Email: m4prjcts@gmail.com
 
