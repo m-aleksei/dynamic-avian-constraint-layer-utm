@@ -111,6 +111,7 @@ EASA U-space Regulation (EU) 2021/664:
 ## 8. ABOUT THE AUTHOR
 
 Alex Malakhov
+
 Independent researcher — Mathematical and computer modeling  
 Email: m4prjcts@gmail.com
 
