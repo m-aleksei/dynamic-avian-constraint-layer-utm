@@ -51,25 +51,38 @@ A single UAS cannot cover an entire migration corridor (typically
 ## 4. KEY COMPONENTS
 
   Detection:
+  
     - Thermal camera (640x512, FOV 30-45 degrees).
+    
     - Lightweight CNN (MobileNetV3) for real-time detection and
       classification.
+      
     - Detection range: >= 500 m.
 
   Tracking:
+  
     - Kalman filter for position and velocity prediction.
+    
     - Flock centroid, heading, speed, uncertainty radius.
 
   Handoff:
+  
     - JSON messages over MAVLink or IP.
+    
     - Triggered when flock enters handoff zone (last 20% of sector).
+    
     - Failure handling: retry, fallback to extended tracking.
+    
     - Splitting/merging logic for flock dynamics.
 
   Geo-fence Generation:
+  
     - Dynamic polygon around active flocks.
+    
     - Updated every 30-60 seconds.
+    
     - Altitude band: +/-100 m around flock altitude.
+    
     - Transmitted to USS as UVR/UREP.
 
 
